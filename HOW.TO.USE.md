@@ -1,6 +1,4 @@
 ```
-wget https://raw.githubusercontent.com/scriptzteam/PGP-data/main/client.php
-
 php client.php --generate_pub_id=TEST
 0x94EE059335E587E501CC4BF90613E0814F00A7B08BC7C648FD865A2AF6A22CC2
 
