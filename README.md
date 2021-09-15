@@ -2,7 +2,7 @@
 
 Usage:
 ```
-
+php client.php
 ```
 
 What you store?
