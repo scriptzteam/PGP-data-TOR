@@ -1,4 +1,4 @@
-Data are NOT logged and NOT send without being first PGP encrypted on YOUR machine.
+***Data are NOT logged and NOT send without being first PGP encrypted on YOUR machine.***
 
 How?
 ```
