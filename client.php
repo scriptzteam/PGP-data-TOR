@@ -41,7 +41,7 @@ socket_close($socket);
 }
 else
 {
-echo "\nPublic PGP messages: https://pgp-public.0xc0d3.xyz/\n\n";
+echo "\nPublic PGP data: https://pgp-public.0xc0d3.xyz/\n\n";
 echo "Warning: DO NOT SHARE PRIVATEID!\n\n";
 echo "Generate PUBLICID: php client.php --generate_pub_id=PRIVATEID\n\n";
 echo "Usage: php client.php --pass=PASSWORD --data=\"Message you want to became encrypted with GPG\" --priv_id=PRIVATEID --pub_id=PUBLICID\n\n";
