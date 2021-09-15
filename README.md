@@ -13,7 +13,7 @@ Exchange your PGP encrypted data with others!
 php client.php
 ```
 
-***What you store?***
+***What do you store?***
 ```
 Public PGP encrypted data, so others with password can decrypt your data - https://pgp-public.0xc0d3.xyz/
 PUBLICID used to access the PGP encrypted data - https://pgp-public.0xc0d3.xyz/0xPUBLICID/
