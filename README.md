@@ -8,7 +8,7 @@ php client.php
 What you store?
 ```
 Public PGP encrypted data, so others with password can decrypt your data - https://pgp-public.0xc0d3.xyz/
-PRIVATEID used to access the PGP encrypted data - https://pgp-public.0xc0d3.xyz/0xPRIVATEID/
+PUBLICID used to access the PGP encrypted data - https://pgp-public.0xc0d3.xyz/0xPUBLICID/
 ```
 
 Do you log IP?
