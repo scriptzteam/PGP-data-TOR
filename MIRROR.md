@@ -11,3 +11,8 @@ Mirrors:
 ```
 None for now
 ```
+
+Mirror command:
+```
+wget -m -np -c -U "pgp-data" -w 2 -R "index.html*" "https://pgp-public.0xc0d3.xyz/"
+```
