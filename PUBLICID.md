@@ -1,4 +1,4 @@
-PUBLICID is used to access all of your pgp encrypted data (this is NOT password to decrypt them)
+***PUBLICID is used to access all of your pgp encrypted data (this is NOT password to decrypt them)***
 
 client.php line 13
 ```
