@@ -34,7 +34,7 @@ Any linux distro that can install php and gnupg
 https://pgp-public.0xc0d3.xyz/
 ```
 
-***What to install?***
+***What are requierements?***
 ```
 apt update
 apt upgrade
