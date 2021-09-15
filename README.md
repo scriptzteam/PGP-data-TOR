@@ -4,7 +4,8 @@
 |   __ \     __|   __ \______.--|  |.---.-.|  |_.---.-.
 |    __/    |  |    __/______|  _  ||  _  ||   _|  _  |
 |___|  |_______|___|         |_____||___._||____|___._|
-PGP Encrypted data with public storage!
+PGP Encrypted data with public storage! 
+Exchange your PGP crypted data with others!
 ```
 
 ***Usage:***
