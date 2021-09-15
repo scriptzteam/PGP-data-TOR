@@ -13,7 +13,7 @@ PRIVATEID used to access the PGP encrypted data - https://pgp-public.0xc0d3.xyz/
 
 Do you log IP?
 ```
-No, NEVER!
+No, NEVER! - Always also use TOR/VPN
 ```
 
 Where to run?
