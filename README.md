@@ -21,6 +21,11 @@ Where to run?
 Any linux distro that can install php and gnupg
 ```
 
+Where is the public PGP encrypted data?
+```
+https://pgp-public.0xc0d3.xyz/
+```
+
 What to install?
 ```
 apt update
