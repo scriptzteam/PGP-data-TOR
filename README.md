@@ -30,7 +30,7 @@ No, NEVER! - Always also use TOR/VPN
 
 ***Where to run?***
 ```
-Any linux distro that can install php and gnupg
+Any linux distro that can install php, gnupg, tor, torsocks
 ```
 
 ***Where are the public PGP encrypted data stored?***
