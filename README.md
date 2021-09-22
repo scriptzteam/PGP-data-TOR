@@ -35,7 +35,11 @@ Any linux distro that can install php, gnupg, tor, torsocks
 
 ***Where are the public PGP encrypted data stored?***
 ```
+NON-TOR
 https://pgp-public.0xc0d3.xyz/
+
+TOR
+http://dzgjflxsrdlthz3v7didmurxonbmnoc6hm6t4yeii4cnhqaqhp2kzqqd.onion/
 ```
 
 ***What are requierements?***
