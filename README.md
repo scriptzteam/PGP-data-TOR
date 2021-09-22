@@ -11,6 +11,9 @@ Exchange your PGP encrypted data with others!
 ***Usage:***
 ```
 php client.php
+
+TOR version
+client-tor.php
 ```
 
 ***What do you store?***
