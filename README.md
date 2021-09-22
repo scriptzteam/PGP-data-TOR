@@ -10,6 +10,7 @@ Exchange your PGP encrypted data with others!
 
 ***Usage:***
 ```
+NON-TOR version
 php client.php
 
 TOR version
