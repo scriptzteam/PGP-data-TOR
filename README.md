@@ -39,6 +39,9 @@ https://pgp-public.0xc0d3.xyz/
 apt update
 apt upgrade
 apt install php-cli gnupg
+
+If you want to use client-tor.php you will need
+apt install tor torsocks
 ```
 
 ***Why?***
