@@ -42,7 +42,7 @@ TOR
 http://dzgjflxsrdlthz3v7didmurxonbmnoc6hm6t4yeii4cnhqaqhp2kzqqd.onion/
 ```
 
-***What are requierements?***
+***What are requirements?***
 ```
 apt update
 apt upgrade
