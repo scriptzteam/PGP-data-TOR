@@ -39,7 +39,7 @@ NON-TOR
 https://pgp-public.0xc0d3.xyz/
 
 TOR
-http://dzgjflxsrdlthz3v7didmurxonbmnoc6hm6t4yeii4cnhqaqhp2kzqqd.onion/
+http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion/
 ```
 
 ***What are requirements?***
