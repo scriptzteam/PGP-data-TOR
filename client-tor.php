@@ -42,8 +42,8 @@ socket_close($socket);
 }
 else
 {
-echo "\nPublic PGP data: http://dzgjflxsrdlthz3v7didmurxonbmnoc6hm6t4yeii4cnhqaqhp2kzqqd.onion/\n\n";
+echo "\nPublic PGP data: http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion/\n\n";
 echo "Warning: DO NOT SHARE PRIVATEID!\n\n";
-echo "Generate PUBLICID: php client.php --generate_pub_id=PRIVATEID\n\n";
-echo "Usage: torsocks php client.php --pass=PASSWORD --data=\"Message you want to became encrypted with GPG\" --priv_id=PRIVATEID --pub_id=PUBLICID\n\n";
+echo "Generate PUBLICID: php client-tor.php --generate_pub_id=PRIVATEID\n\n";
+echo "Usage: torsocks php client-tor.php --pass=PASSWORD --data=\"Message you want to became encrypted with GPG\" --priv_id=PRIVATEID --pub_id=PUBLICID\n\n";
 }
