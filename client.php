@@ -1,4 +1,6 @@
 <?php
+die("Use client-tor.php please!");
+
 $host = "pgp.0xc0d3.xyz";
 $port = 10101;
 
