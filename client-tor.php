@@ -1,6 +1,6 @@
 <?php
 //THE TOR VERSION, CAUSE WHY NOT ;)
-$host = "dzgjflxsrdlthz3v7didmurxonbmnoc6hm6t4yeii4cnhqaqhp2kzqqd.onion";
+$host = "http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion";
 $port = 10101;
 
 $generate_pub_id = getopt(null, ["generate_pub_id::"]);
