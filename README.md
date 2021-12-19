@@ -8,6 +8,12 @@ PGP Encrypted data with public storage!
 Exchange your PGP encrypted data with others!
 ```
 
+***Network path for viewing:***
+Our Server -> VPN (Always on!) -> TOR -> TOR Hidden Service -> Tor Browser -> You can view our onion site.
+
+***Network path for sending:***
+Your Server/PC -> VPN(?) -> php -> pgp encrypt file -> torsocks -> TOR -> TOR Hidden Service -> You can send to our onion site.
+
 ***Usage:***
 ```
 NON-TOR version
