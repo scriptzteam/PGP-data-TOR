@@ -10,20 +10,20 @@ Exchange your PGP encrypted data with others!
 
 ***Network path for viewing:***
 ```
-Our Server -> VPN (Always on!) -> TOR -> TOR Hidden Service -> Tor Browser -> You can view our onion site.
+Our Server -> VPN (Always on!) -> Tor -> TOR Hidden Service -> Tor Browser -> You can view our onion site.
 ```
 
 ***Network path for sending:***
 ```
-Your Server/PC -> VPN(?) -> php -> pgp encrypt file -> torsocks -> TOR -> TOR Hidden Service -> You can send to our onion site.
+Your Server/PC -> VPN(?) -> php -> pgp encrypt file -> torsocks -> Tor -> Tor Hidden Service -> You can send to our onion site.
 ```
 
 ***Usage:***
 ```
-NON-TOR version
+NON-Tor version
 php client.php
 
-TOR version
+Tor version
 client-tor.php
 ```
 
@@ -35,7 +35,7 @@ PUBLICID used to access the PGP encrypted data - https://pgp-public.0xc0d3.xyz/0
 
 ***Do you log IP?***
 ```
-No, NEVER! - Always also use TOR/VPN
+No, NEVER! - Always also use Tor/VPN
 ```
 
 ***Where to run?***
@@ -45,10 +45,10 @@ Any linux distro that can install php, gnupg, tor, torsocks
 
 ***Where are the public PGP encrypted data stored?***
 ```
-NON-TOR
-https://pgp-public.0xc0d3.xyz/
+NON-Tor
+(ONLY Tor version available) https://pgp-public.0xc0d3.xyz/
 
-TOR
+Tor
 http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion/
 ```
 
