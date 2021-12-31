@@ -1,5 +1,5 @@
 <?php
-//THE TOR VERSION, CAUSE WHY NOT ;)
+//THE Tor VERSION, CAUSE WHY NOT ;)
 $host = "http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion";
 $port = 10101;
 
