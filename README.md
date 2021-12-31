@@ -10,12 +10,12 @@ Exchange your PGP encrypted data with others!
 
 ***Network path for viewing:***
 ```
-Our Server -> VPN (Always on!) -> Tor -> TOR Hidden Service -> Tor Browser -> You can view our onion site.
+Our Server -> OUR.VPN (Always on!) -> Tor -> TOR Hidden Service -> Tor Browser -> You can view our onion site.
 ```
 
 ***Network path for sending:***
 ```
-Your Server/PC -> VPN(?) -> php -> pgp encrypt file -> torsocks -> Tor -> Tor Hidden Service -> You can send to our onion site.
+Your Server/PC -> VPN(?) -> php -> pgp encrypt file -> torsocks -> Tor -> Tor Hidden Service -> OUR.VPN -> You can send to our onion site.
 ```
 
 ***Usage:***
