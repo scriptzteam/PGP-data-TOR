@@ -24,7 +24,7 @@ NON-Tor version
 php client.php
 
 Tor version
-client-tor.php
+torsocks php client-tor.php
 ```
 
 ***What do you store?***
