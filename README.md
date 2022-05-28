@@ -29,8 +29,8 @@ torsocks php client-tor.php
 
 ***What do you store?***
 ```
-Public PGP encrypted data, so others with password can decrypt your data - https://pgp-public.0xc0d3.xyz/
-PUBLICID used to access the PGP encrypted data - https://pgp-public.0xc0d3.xyz/0xPUBLICID/
+Public PGP encrypted data, so others with password can decrypt your data - http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion/
+PUBLICID used to access the PGP encrypted data - http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion/0xPUBLICID/
 ```
 
 ***Do you log IP?***
@@ -46,7 +46,7 @@ Any linux distro that can install php, gnupg, tor, torsocks
 ***Where are the public PGP encrypted data stored?***
 ```
 NON-Tor
-(ONLY Tor version available) https://pgp-public.0xc0d3.xyz/
+(ONLY Tor version available)
 
 Tor
 http://5ka3dftljd6f45urk73friftas2sq5ramgvs3l2tvyoolx4b4ozfrdyd.onion/
